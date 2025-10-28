@@ -5,7 +5,6 @@
 - 🔭 Built production ETL pipelines (100 GB +) on Azure Databricks → **40 % latency reduction**  
 - ⚙️ CI/CD with GitHub Actions + Azure DevOps → **50 % faster deployments**  
 - 🤖 Passionate about Responsible AI & Engineering Excellence  
-- 🎯 Applying for **Microsoft Aspire SDE (Job ID 1900192)**  
 - 📫 **bathinishashipreetham@gmail.com** | [LinkedIn](https://linkedin.com/in/shashi-preetham) | [Portfolio](https://shashipreetham.github.io)
 
 ## 🔗 Featured Projects
