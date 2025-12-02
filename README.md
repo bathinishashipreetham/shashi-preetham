@@ -1,7 +1,7 @@
-Hi there 👋, I'm Anvesha
+Hi there 👋, I'm Shashi
 I'm a web developer with a passion for solving complex problems and building scalable applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
 
-✨ I’m @anveshas
+✨ I’m @Shashi Preetham
 🔭 I’ve worked on several projects using MERN stack, Next.js, TypeScript, etc.
 ⚡ I’m currently working on my DSA Skills
 🌱 I’m currently learning Machine Learning.
@@ -9,8 +9,8 @@ I'm a web developer with a passion for solving complex problems and building sca
 
 📫 How to reach me:
 
-Email: sanvesha28@gmail.com
-LinkedIn: Anvesha Srivastava
+Email: bathinishashipreetham@gmail.com
+LinkedIn: Shashi Preetham
 🌐 Connect with me:
 LinkedIn Twitter LeetCode CodeChef HackerRank GeeksforGeeks
 💻 Languages and Tools:
