@@ -1,5 +1,5 @@
 <!--
-**anveshas/anveshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shashi/anveshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 ## Hi there 👋, I'm Shashi
 
@@ -32,7 +32,7 @@ I'm a web developer with a passion for solving complex problems and building sca
 <a href="https://www.hackerrank.com/profile/shashipreetham43">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40">
 </a> 
-<a href="https://www.geeksforgeeks.org/user/anveshas/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40"/></a>
+<a href="https://www.geeksforgeeks.org/profile/bathinishasnbxv" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40"/></a>
 
 ## 💻 Languages and Tools:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" width="120" height="40"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" width="120" height="40"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" width="120" height="40"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" width="120" height="40"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="120" height="40"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="120" height="40"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="120" height="40"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120" height="40"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="120" height="40"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="120" height="40"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" width="120" height="40"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="120" height="40"> 
@@ -42,13 +42,13 @@ I'm a web developer with a passion for solving complex problems and building sca
 
 ## 📊 GitHub Stats:
 <p>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=anveshas&show_icons=true&theme=radical" alt="Anvesha's GitHub Stats" width="400" height="200"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshas&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=bathinishashipreetham&show_icons=true&theme=radical" alt="Anvesha's GitHub Stats" width="400" height="200"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathinishashipreetham&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anveshas&theme=radical" alt="GitHub Streak Stats" width="400" height="200">
 </p>
-<!-- ![Anvesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anveshas&show_icons=true&theme=radical)
+<!-- ![Anvesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=bathinishashipreetham&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anveshas&layout=compact&theme=radical" alt="Top Languages" width="400" height="200">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anveshas&layout=compact&theme=radical)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinishashipreetham&layout=compact&theme=radical)  -->
 
 
 <!--
