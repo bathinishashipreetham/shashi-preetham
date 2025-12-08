@@ -3,7 +3,7 @@
 Here are some ideas to get you started:-->
 ## Hi there 👋, I'm Shashi
 
-I'm a web developer with a passion for solving complex problems and building scalable applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
+I'm a Software Developer with a passion for solving complex problems and building scalable applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
 
 ✨ I’m @shashi 
 🔭 I’ve worked on several projects using MERN stack, Next.js, TypeScript, etc.  
