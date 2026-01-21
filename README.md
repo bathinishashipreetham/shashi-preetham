@@ -1,15 +1,83 @@
-<!--
-**shashi/anveshas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
-## Hi there 👋, I'm Shashi
+# 👋 Hi, I'm Shashi Preetham  
+**Backend Engineer | Software Engineer (2025 Graduate)**  
+Python • Backend Systems • Databases • Cloud
 
-I'm a Software Developer with a passion for solving complex problems and building scalable applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
+---
 
-✨ I’m @shashi 
-🔭 I’ve worked on several projects using MERN stack, Next.js, TypeScript, etc.  
-⚡ I’m currently working on my DSA Skills  
-🌱 I’m currently learning Machine Learning.  
-👯 I’m looking to collaborate on exciting projects.
+## 🚀 About Me
+I am a backend-focused software engineer with strong foundations in **computer science fundamentals** and experience building **reliable, scalable backend services**.
+
+I enjoy working on:
+- Backend & platform-oriented systems  
+- API design and data-heavy applications  
+- Systems with correctness, validation, and failure handling  
+
+Currently preparing for **SDE-1 / Backend Engineer roles** at product-based companies.
+
+---
+
+## 🧠 Core Skills
+
+### Programming Languages
+- Python  
+- SQL  
+- Java (basic)  
+- JavaScript (basic)
+
+### Backend & Systems
+- RESTful APIs (Flask)
+- Request validation & error handling
+- State-based workflows
+- Linux (Ubuntu)
+
+### Databases
+- PostgreSQL  
+- MySQL  
+- SQLite  
+- Schema design & query optimization
+
+### Cloud & DevOps
+- Microsoft Azure (VMs, App Service, Azure SQL)
+- Docker
+- Kubernetes (basics)
+- CI/CD fundamentals
+
+### Computer Science Fundamentals
+- Data Structures & Algorithms  
+- Operating Systems  
+- DBMS  
+- Computer Networks  
+- Distributed Systems basics
+
+---
+
+## 📊 Problem Solving
+- Solved **200+ DSA problems**
+- Strong focus on time & space optimization
+- Topics: Arrays, Trees, Graphs, DP, Recursion
+
+🔗 **LeetCode:** https://leetcode.com/u/shashipreetham3
+
+---
+
+## 📌 Currently Learning
+- Distributed systems internals  
+- Backend scalability patterns  
+- Database performance tuning  
+- Production-grade system design
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/bathinishashipreetham  
+- **LinkedIn:** https://linkedin.com/in/bathini-shashi-preetham  
+- **Email:** bathinishashipreetham@gmail.com
+
+---
+
+## ⭐ Engineering Principles
+> Build correct systems first. Optimize later. Scale thoughtfully.
+
 
 
 📫 How to reach me:
