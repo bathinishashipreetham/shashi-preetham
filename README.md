@@ -1,84 +1,76 @@
-# 👋 Hi, I'm Shashi Preetham  
-**Backend Engineer | Software Engineer (2025 Graduate)**  
-Python • Backend Systems • Databases • Cloud
+# Hi, I'm Shashi Preetham 👋
+
+**Backend Software Engineer | Cloud & Distributed Systems | 2025 Graduate**
+
+I build backend and platform-oriented systems focused on reliability, scalability, and automation.  
+Interested in distributed services, cloud infrastructure, and production-grade backend engineering.
 
 ---
 
-## 🚀 About Me
-I am a backend-focused software engineer with strong foundations in **computer science fundamentals** and experience building **reliable, scalable backend services**.
+## 🔧 Core Skills
 
-I enjoy working on:
-- Backend & platform-oriented systems  
-- API design and data-heavy applications  
-- Systems with correctness, validation, and failure handling  
-
-Currently preparing for **SDE-1 / Backend Engineer roles** at product-based companies.
-
----
-
-## 🧠 Core Skills
-
-### Programming Languages
-- Python  
-- SQL  
-- Java (basic)  
-- JavaScript (basic)
-
-### Backend & Systems
-- RESTful APIs (Flask)
-- Request validation & error handling
-- State-based workflows
-- Linux (Ubuntu)
-
-### Databases
-- PostgreSQL  
-- MySQL  
-- SQLite  
-- Schema design & query optimization
-
-### Cloud & DevOps
-- Microsoft Azure (VMs, App Service, Azure SQL)
-- Docker
-- Kubernetes (basics)
-- CI/CD fundamentals
-
-### Computer Science Fundamentals
-- Data Structures & Algorithms  
-- Operating Systems  
-- DBMS  
-- Computer Networks  
-- Distributed Systems basics
+- **Languages:** Python, SQL, JavaScript, Java (basic)
+- **Backend:** REST APIs, Flask, Microservices-style design, Modular architecture
+- **Databases:** MySQL, PostgreSQL, SQLite, Query optimization, Indexing
+- **Cloud:** Microsoft Azure, AWS (EC2, VPC, IAM)
+- **Infrastructure:** Docker, Kubernetes (GKE), Terraform, Linux
+- **Reliability:** Retry logic, failure handling, idempotent operations
+- **Observability:** Logs, metrics, dashboards, root cause analysis
+- **CI/CD:** GitHub Actions, Jenkins
+- **Practices:** Unit testing, secure coding, code reviews
 
 ---
 
-## 📊 Problem Solving
-- Solved **200+ DSA problems**
-- Strong focus on time & space optimization
-- Topics: Arrays, Trees, Graphs, DP, Recursion
+## ☁️ Cloud & Distributed Systems Projects
 
-🔗 **LeetCode:** https://leetcode.com/u/shashipreetham3
+### 📌 Cloud-Based Data Analytics Platform (Azure)
+- Designed distributed backend services for batch ingestion and querying
+- Implemented schema validation, retries, and fault tolerance
+- Added observability with logs and metrics
+- Built CI/CD pipeline with Docker builds
+- Optimized DB queries for analytics workloads
 
----
-
-## 📌 Currently Learning
-- Distributed systems internals  
-- Backend scalability patterns  
-- Database performance tuning  
-- Production-grade system design
+**Tech:** Python, SQL, Azure SQL, Azure Data Factory, Docker
 
 ---
 
-## 📫 Connect With Me
-- **GitHub:** https://github.com/bathinishashipreetham  
-- **LinkedIn:** https://linkedin.com/in/bathini-shashi-preetham  
-- **Email:** bathinishashipreetham@gmail.com
+### 📌 Batch Pipeline Migration Orchestrator
+- Built control-plane style backend service
+- Dependency tracking and rollback mechanisms
+- Idempotent operations for safe retries
+- Failure isolation and resiliency patterns
+
+**Tech:** Python, PostgreSQL, Docker, Linux
 
 ---
 
-## ⭐ Engineering Principles
-> Build correct systems first. Optimize later. Scale thoughtfully.
+### 📌 Infrastructure Automation with Terraform
+- Provisioned AWS infrastructure using Terraform
+- Modular VPC + EC2 + Security Groups setup
+- Reusable infra definitions
 
+---
 
+## 🧠 Problem Solving
+
+- ✅ 200+ DSA problems solved
+- Focus: Trees, Graphs, DP, Recursion, Optimization
+
+🔗 LeetCode: https://leetcode.com/u/shashipreetham3/
+
+---
+
+## 📫 Contact
+
+- Email: bathinishashipreetham@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bathini-shashi-preetham-b82b41347/
+- GitHub: https://github.com/bathinishashipreetham
+
+---
+
+## 🎯 Career Focus
+
+Backend • Distributed Systems • Cloud Infrastructure • Platform Engineering • Reliability
 
 📫 How to reach me:
 - **Email**: [bathinishashipreetham@gmail.com](mailto:bathinishashipreetham@gmail.com)
